@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  table {
+    font-size: 0.9rem;
+  }
+
+  input, button {
+    font-size: 0.8rem;
+    padding: 8px;
+  }
+}
